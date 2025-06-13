@@ -1,0 +1,3 @@
+assemblyai
+google-generativeai
+python-dotenv
